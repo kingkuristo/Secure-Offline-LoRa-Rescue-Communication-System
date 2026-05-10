@@ -14,6 +14,7 @@ The system is designed to support the following security and performance tests:
 ## Hardware Requirements
 * **Sender:** TTGO T-Beam (ESP32 + SX1276 + GPS)
 * **Receiver:** Heltec WiFi LoRa 32 V3 (ESP32 + SX1262 + OLED)
+* **Attacker:** TTGO T-Beam (ESP32 + SX1276 + GPS)
 
 ## Dependencies
 Ensure the following libraries are installed in your Arduino IDE:
