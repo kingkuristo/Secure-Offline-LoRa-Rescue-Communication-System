@@ -1,0 +1,14 @@
+# Ignore Arduino build folders and temporary files
+build/
+bin/
+layout.pxt
+*.hex
+*.elf
+*.bin
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore local environment settings
+.vscode/
+.idea/
